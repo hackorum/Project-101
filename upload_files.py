@@ -22,7 +22,7 @@ class TransferData:
 
 
 def main():
-    access_token = "nFrQ-cMOoqoAAAAAAAAAAYI_W4Xvz00IoxgNbtXSYOl2-Cnq3aUgpx3gEV1Xooar"
+    access_token = "get_your_own_token"
     transferData = TransferData(access_token)
 
     folder_from = input("Enter the folder you want to upload: ")
